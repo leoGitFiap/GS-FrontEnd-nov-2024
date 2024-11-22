@@ -14,16 +14,16 @@ header h1{
     padding-top: 10px;
     justify-self: center;
     text-decoration: underline;
-    margin-top: 20px;
+    margin-top: 50px;
 }
 
 body{
-    background-image: linear-gradient(to right, #ffff00, #ffa500, #ffffff, #ffffff, #ffffff, #ffa500, #ffff00);
+    background-image: linear-gradient(to right, #ddbc00, #ffa500, #ffffff, #ffffff, #ffffff, #ffa500, #ddbc00);
 }
 
 section{
     color: #ffffff;
-    background-image: linear-gradient(to right, #ffff00, #ffa500, #6e0000, #6e0000, #6e0000, #ffa500, #ffff00);
+    background-image: linear-gradient(to right, #ddbc00, #ffa500, #6e0000, #6e0000, #6e0000, #ffa500, #ddbc00);
     display: flex;
     justify-content: center;
     margin-top: 100px;
@@ -73,18 +73,17 @@ section{
 }
 
 footer nav ul{
-    background-image: linear-gradient(to right, #ffa500, #ffff00, #6e0000, #6e0000, #6e0000, #ffff00, #ffa500);
+    background-image: linear-gradient(to right, #ffa500, #ddbc00, #6e0000, #6e0000, #6e0000, #ddbc00, #ffa500);
     list-style: none;
     justify-self: center;
     align-items: center;
-    margin-top: 30px;
     padding: 1.7rem;
-    padding-left: 560px;
     gap: 20px;
     width: 1280px;
 }
 
 footer nav ul a{
+    display: flex;
     justify-self: center;
     color: #ffffff;
     text-decoration: none;
