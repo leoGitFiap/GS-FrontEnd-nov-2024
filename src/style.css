@@ -21,13 +21,32 @@ body{
     background-image: linear-gradient(to right, #ddbc00, #ffa500, #ffffff, #ffffff, #ffffff, #ffa500, #ddbc00);
 }
 
-section{
+.section_index{
     color: #ffffff;
     background-image: linear-gradient(to right, #ddbc00, #ffa500, #6e0000, #6e0000, #6e0000, #ffa500, #ddbc00);
     display: flex;
     justify-content: center;
     margin-top: 100px;
     padding: 10px;
+}
+
+.section_sobre{
+    color: #ffffff;
+    background-image: linear-gradient(to right, #ddbc00, #ffa500, #6e0000, #6e0000, #6e0000, #ffa500, #ddbc00);
+    margin-top: 100px;
+    padding: 10px;
+}
+
+h3{
+    justify-self: center;
+    max-width: 500px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.div_sobre{
+    justify-self: center;
+    text-align: center;
 }
 
 #imagehome1{
@@ -70,6 +89,10 @@ section{
 
 .div3_invert{
     justify-self: left;
+}
+
+.footer_sobre{
+    margin-top: 383px;
 }
 
 footer nav ul{
