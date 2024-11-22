@@ -9,7 +9,8 @@ let imagens =[
     "./src/assets/solar4.jpeg",
     "./src/assets/solar3.jpeg",
     "./src/assets/solar.jpeg",
-    "./src/assets/solar2.jpeg"
+    "./src/assets/solar2.jpeg",
+    "./src/assets/solar5.jpeg"
 ];
 let i = 0;
 let time = 3000;
